@@ -1,16 +1,54 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**emozdir/emozdir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - МПЭК - 2011. Земельно-имущественные отношения
+  - МИИГАиК - 2014. Кадастровый инженер
+  - МФЮА - 2014. Оценка стоимости предприятия (бизнеса)
+  - SlillFactory - 2024. Курс 'Cпециализация Data Science'
+* 📈 Профессиональный оценщик со стажем - 10 лет
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Проекты 📚
+
+* Кликни [сюда](https://github.com/emozdir](https://github.com/emozdir/Data_sciense) чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: Python
+- Skills: 
+    * 
+
+### ⚡️ В настоящее время ⚡️
+- Обучаюсь на Data Sciense курсе
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram]()
+- [Kaggle]()
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+  - MPEC - 2011. Land and property relations.
+  - MIIGAiK - 2014. Cadastral engineer
+  - MFUA - 2014. Estimation of the value of an enterprise (business)
+  - SlillFactory - 2024. Course 'Data Science Specialization'
+
+* 📈 Professional appraiser with 10 years of experience
+
+### 💡 Core competencies 💡
+- Tools: Python
+  - Skills:
+    * 
+    * 
+
+### ⚡️ Currently ⚡️
+- I'm learning a Data Science
+-  
+
+### 🙌🏻 Contact me
+- [Telegram]()
+- [Kaggle]()
